@@ -21,7 +21,7 @@
 <a href="https://twitter.com/giddycode02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giddycode02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gideonekeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gideonekeke" height="30" width="40" /></a>
 <a href="https://fb.com/gideon ekeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gideon ekeke" height="30" width="40" /></a>
-<a href="https://instagram.com/giddy006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giddy006" height="30" width="40" /></a>
+<a href="https://instagram.com/giddycode02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giddy006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
